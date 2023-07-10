@@ -6,6 +6,9 @@
   },
   "servers": [
     {
+      "url": "https://hr-api-jyri.onrender.com/"
+    },
+    {
       "url": "http://localhost:3000"
     }
   ],
